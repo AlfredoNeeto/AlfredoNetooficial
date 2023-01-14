@@ -32,4 +32,4 @@ Se desistir não for uma opção, o sucesso será inevitável!
 <img align="center" alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
 
-![Snake animation](https://github.com/AlfredoNetooficial/AlfredoNetooficial/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AlfredoNeeto/AlfredoNeeto/blob/output/github-contribution-grid-snake.svg)
