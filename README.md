@@ -1,35 +1,25 @@
-### Olá! Eu sou o Alfredo Neto 👋
+<img align="right" height="590em"
+src="https://raw.githubusercontent.com/gist/AlfredoNeeto/9cbed700622f91f37d5d626a90498208/raw/577fb0bb2633d88da565df13717ef14b67e74055/githubcard.svg"/>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou o Alfredo</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlfredoNeeto&color=blue" alt="Profile views" /> </p>
 
-[![Instagram)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alfredonneto/)
-[![E-mail)](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eu.alfredoneto@hotmail.com?subject=Olá%20Alfredo)
+- 🔥 Desenvolvedor Junior Backend com experiência em C# e buscando constante evolução profissional.
 
-![Alfredo github stats](https://github-readme-stats.vercel.app/api?username=AlfredoNeeto&show_icons=true&theme=dark")
+- 🔭 Trabalho atualmente na [Newteam SD](https://www.newteam.com.br/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoNeeto&layout=compact)](https://github.com/AlfredoNeeto)
+- ⚡Tecnologias que uso no meu dia a dia **CSharp, SQL, .NET, GIT**
 
-## Tecnologias que eu uso no meu dia
+- 👨‍💻Tecnologias que estou aprendendo **.NET Framework, .NET Framework, Blazor, SQL Server, JavaScript, HTML e CSS**
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="linguagem csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-<img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-</div><br/>
+- 📕Se desistir não for uma opção, o sucesso será inevitável!
 
-Se desistir não for uma opção, o sucesso será inevitável!
 
-## Tecnologias que estou estudando 👨‍💻
+<br><br>
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="linguagem csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img align="center" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-<img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-<img align="center" alt="linguagem Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img align="center" alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</div><br/>
+## Contact
 
-![Snake animation](https://github.com/AlfredoNeeto/AlfredoNeeto/blob/output/github-contribution-grid-snake.svg)
+<p align="left" style="background:blue">
+<a href="https://instagram.com/alfredonneto" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-alfredonneto-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
