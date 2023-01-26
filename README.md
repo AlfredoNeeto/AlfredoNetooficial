@@ -9,7 +9,7 @@ src="https://raw.githubusercontent.com/gist/AlfredoNeeto/9cbed700622f91f37d5d626
 
 - ⚡Tecnologias que uso no meu dia a dia **CSharp, SQL, .NET, GIT**
 
-- 👨‍💻Tecnologias que estou aprendendo **.NET Framework, .NET Framework, Blazor, SQL Server, JavaScript, HTML e CSS**
+- 👨‍💻Tecnologias que estou aprendendo **.NET Framework, Blazor, SQL Server, JavaScript, HTML e CSS**
 
 - 📕Se desistir não for uma opção, o sucesso será inevitável!
 
