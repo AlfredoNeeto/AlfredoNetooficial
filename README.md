@@ -12,14 +12,3 @@ src="https://raw.githubusercontent.com/gist/AlfredoNeeto/9cbed700622f91f37d5d626
 - 👨‍💻Tecnologias que estou aprendendo **.NET Framework, Blazor, SQL Server, JavaScript, HTML e CSS**
 
 - 📕Se desistir não for uma opção, o sucesso será inevitável!
-
-
-<br><br>
-
-## Contact
-
-<p align="left" style="background:blue">
-<a href="https://instagram.com/alfredonneto" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-alfredonneto-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
