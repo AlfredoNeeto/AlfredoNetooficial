@@ -5,7 +5,7 @@ src="https://raw.githubusercontent.com/gist/AlfredoNeeto/e4881a1bacd231908bd026b
 
 - 🔥 Desenvolvedor Junior Backend com experiência em C# e buscando constante evolução profissional.
 
-- 🔭 Trabalho atualmente na [Newteam SD](https://www.newteam.com.br/)
+- 🔭 Trabalho atualmente na [Agenda Assessoria](https://www.agendaassessoria.com.br/)
 
 - ⚡Tecnologias que uso no meu dia a dia **CSharp, SQL, .NET, GIT**
 
