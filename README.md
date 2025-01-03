@@ -1,6 +1,6 @@
 # 👨‍💻 Olá, sou o Alfredo!
 
-🎯 **Desenvolvedor Full Stack | .NET Developer**  
+#### **Desenvolvedor Full Stack | .NET Developer**  
 Desde os 15 anos, sou apaixonado por tecnologia e inovação. Ao longo dos anos, desenvolvi soluções criativas e eficientes utilizando tecnologias como C#, ASP.NET,.NET MAUI e muitas outras. Meu foco é sempre transformar ideias em soluções reais, buscando inovação e melhoria contínua em todos os projetos que crio.
 
 
